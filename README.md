@@ -1,3 +1,4 @@
+<img width="1920" height="1030" alt="CareerFlow — Matchmaking de vagas e currículo ATS - Google Chrome 11_08_2026 16_15_35" src="https://github.com/user-attachments/assets/b66fa661-fa4d-4499-a4a8-e05df2d0ca8d" />
 ## # 💼 CareerFlow — Matchmaking de Vagas + Currículo ATS Friendly
 
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F64?style=for-the-badge)
@@ -672,19 +673,19 @@ Além disso:
 ## 📸 Screenshots
 
 ```markdown
-<img width="1920" height="1030" alt="Dashboard — Matchmaking de vagas e currículo ATS -" src="https://github.com/user-attachments/assets/43c41dbe-ea1b-45bc-91d0-77e871f80e2d" />
+<img width="1920" height="1030" alt="CareerFlow — Dashboard -" src="https://github.com/user-attachments/assets/43c41dbe-ea1b-45bc-91d0-77e871f80e2d" />
 
-<img width="1920" height="1030" alt="Vagas — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/856fb07d-e96d-4496-9de7-3aa9df379c11" />
+<img width="1920" height="1030" alt="CareerFlow — Vagas - " src="https://github.com/user-attachments/assets/856fb07d-e96d-4496-9de7-3aa9df379c11" />
 
-<img width="1920" height="1030" alt="Match — Matchmaking de vagas e currículo ATS -  src="https://github.com/user-attachments/assets/e7ada89f-826e-4c0f-aa2a-68939cc27b15" />
+<img width="1920" height="1030" alt="CareerFlow — Match -  src="https://github.com/user-attachments/assets/e7ada89f-826e-4c0f-aa2a-68939cc27b15" />
 
-<img width="1920" height="1030" alt="Currículo  — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/edfe7a30-7b00-48d8-8ae0-6cc65e6b5ac8" />
+<img width="1920" height="1030" alt="CareerFlow  — Currículo de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/edfe7a30-7b00-48d8-8ae0-6cc65e6b5ac8" />
 
-<img width="1920" height="1030" alt="Candidatura — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/25e11eaa-b051-4a2b-aebb-213abd69bbb4" />
+<img width="1920" height="1030" alt="CareerFlow — Candidatura - " src="https://github.com/user-attachments/assets/25e11eaa-b051-4a2b-aebb-213abd69bbb4" />
 
-<img width="1920" height="1030" alt="Perfil — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/368515e5-5ed3-481e-8f68-615d3fa1e85b" />
+<img width="1920" height="1030" alt="CareerFlow — Perfil - " src="https://github.com/user-attachments/assets/368515e5-5ed3-481e-8f68-615d3fa1e85b" />
 
-<img width="1920" height="1030" alt="Analystic erro — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/73e29fcf-b537-48d3-8367-b6fb5ccae448" />
+<img width="1920" height="1030" alt="CareerFlow  — Analystic erro - " src="https://github.com/user-attachments/assets/73e29fcf-b537-48d3-8367-b6fb5ccae448" />
 
 ```
 
