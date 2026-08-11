@@ -787,6 +787,6 @@ O princípio central do projeto é:
 
 **Vanessa Costa Pereira**
 
-Estudante de **Análise e Desenvolvimento de Sistemas e Futura Desenvolvedora F**
+Estudante de **Análise e Desenvolvimento de Sistemas e Futura Desenvolvedora Full Stack**
 
 Projeto desenvolvido para fins de estudo, portfólio e desafio de **Vibe Coding da DIO**.
