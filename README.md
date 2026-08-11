@@ -1,4 +1,4 @@
-<img width="1920" height="1030" alt="CareerFlow — Matchmaking de vagas e currículo ATS - Google Chrome 11_08_2026 16_15_35" src="https://github.com/user-attachments/assets/b66fa661-fa4d-4499-a4a8-e05df2d0ca8d" />
+
 ## # 💼 CareerFlow — Matchmaking de Vagas + Currículo ATS Friendly
 
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F64?style=for-the-badge)
@@ -672,7 +672,7 @@ Além disso:
 
 ## 📸 Screenshots
 
-```markdown
+
 <img width="1920" height="1030" alt="CareerFlow — Dashboard -" src="https://github.com/user-attachments/assets/43c41dbe-ea1b-45bc-91d0-77e871f80e2d" />
 
 <img width="1920" height="1030" alt="CareerFlow — Vagas - " src="https://github.com/user-attachments/assets/856fb07d-e96d-4496-9de7-3aa9df379c11" />
@@ -687,7 +687,7 @@ Além disso:
 
 <img width="1920" height="1030" alt="CareerFlow  — Analystic erro - " src="https://github.com/user-attachments/assets/73e29fcf-b537-48d3-8367-b6fb5ccae448" />
 
-```
+
 
 ---
 
