@@ -16,9 +16,7 @@ O **CareerFlow** ajuda candidatos a analisar vagas de emprego, comparar requisit
 
 ## 🚀 Demonstração
 
-🔗 **Aplicação:** [Adicionar link do Lovable aqui]
-
-📂 **Repositório:** este projeto
+🔗 **Aplicação:** https://career-compass-359.lovable.app/
 
 ---
 
@@ -637,27 +635,16 @@ A arquitetura poderá receber autenticação futuramente.
 
 ## 🧪 Testes e Validação
 
-Os principais fluxos a serem validados são:
+Durante os testes da aplicação, os principais fluxos previstos para o MVP foram validados com sucesso. A criação e edição do perfil profissional funcionaram corretamente, assim como o cadastro de vagas e a interpretação automática das descrições. A identificação de requisitos, o cálculo do Match, a explicação da compatibilidade e a análise de Skill Gaps também apresentaram o comportamento esperado.
 
-* criação do perfil profissional;
-* edição do perfil;
-* cadastro de vagas;
-* interpretação das descrições;
-* identificação de requisitos;
-* cálculo do Match;
-* explicação do Match;
-* identificação de Skill Gaps;
-* geração de currículo personalizado;
-* cálculo do ATS Score;
-* edição do currículo;
-* exportação em PDF;
-* criação de candidatura;
-* alteração de status;
-* Dashboard;
-* Analytics;
-* responsividade;
-* tema claro;
-* tema escuro.
+A geração de currículos personalizados, o cálculo do ATS Score e a edição dos currículos foram testados e funcionaram conforme planejado. O fluxo de criação de candidaturas e a alteração de status também foram validados com sucesso.
+
+Além disso, o Dashboard apresentou os dados corretamente, assim como a área de Analytics. A responsividade da aplicação foi testada em diferentes tamanhos de tela, e a alternância entre os temas claro e escuro também funcionou adequadamente.
+
+Como pontos ainda pendentes, a página de **Analytics** apresenta funcionalidades que precisam de ajustes adicionais em alguns cenários, e a página de **Configurações** ainda não está funcionando corretamente. Esses itens permanecem como pontos de melhoria para as próximas versões do projeto. **Erro 404 Page not found
+The page you're looking for doesn't exist or has been moved.**
+
+De forma geral, o fluxo principal do CareerFlow está funcional, permitindo ao usuário criar seu perfil, cadastrar e analisar vagas, visualizar o Match, identificar Skill Gaps, gerar currículos personalizados, consultar o ATS Score e acompanhar candidaturas.
 
 ---
 
@@ -684,21 +671,21 @@ Além disso:
 
 ## 📸 Screenshots
 
-Adicione os prints do projeto dentro da pasta:
-
-```text
-/assets
-```
-
-Exemplo:
-
 ```markdown
-![Dashboard](./assets/dashboard.png)
-![Análise da vaga](./assets/job-analysis.png)
-![Match](./assets/match.png)
-![Editor de currículo](./assets/resume-editor.png)
-![ATS Score](./assets/ats-score.png)
-![Candidaturas](./assets/applications.png)
+<img width="1920" height="1030" alt="Dashboard — Matchmaking de vagas e currículo ATS -" src="https://github.com/user-attachments/assets/43c41dbe-ea1b-45bc-91d0-77e871f80e2d" />
+
+<img width="1920" height="1030" alt="Vagas — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/856fb07d-e96d-4496-9de7-3aa9df379c11" />
+
+<img width="1920" height="1030" alt="Match — Matchmaking de vagas e currículo ATS -  src="https://github.com/user-attachments/assets/e7ada89f-826e-4c0f-aa2a-68939cc27b15" />
+
+<img width="1920" height="1030" alt="Currículo  — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/edfe7a30-7b00-48d8-8ae0-6cc65e6b5ac8" />
+
+<img width="1920" height="1030" alt="Candidatura — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/25e11eaa-b051-4a2b-aebb-213abd69bbb4" />
+
+<img width="1920" height="1030" alt="Perfil — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/368515e5-5ed3-481e-8f68-615d3fa1e85b" />
+
+<img width="1920" height="1030" alt="Analystic erro — Matchmaking de vagas e currículo ATS - " src="https://github.com/user-attachments/assets/73e29fcf-b537-48d3-8367-b6fb5ccae448" />
+
 ```
 
 ---
@@ -800,6 +787,6 @@ O princípio central do projeto é:
 
 **Vanessa Costa Pereira**
 
-Estudante de **Análise e Desenvolvimento de Sistemas**
+Estudante de **Análise e Desenvolvimento de Sistemas e Futura Desenvolvedora F**
 
 Projeto desenvolvido para fins de estudo, portfólio e desafio de **Vibe Coding da DIO**.
